@@ -27,4 +27,4 @@ define('SITE_CONTACT', '+91 90088 90808');
 //email information
 define('SITE_EMAIL_INFO', 'info@coderseven.com');
 //url information
-define('SITE_URL', 'http://localhost/chatinphp/');
+define('SITE_URL', 'http://localhost/sample/');
